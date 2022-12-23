@@ -1,0 +1,41 @@
+  
+  nav {
+      background-color: lightgreen;
+      display: flex;
+      justify-content: space-around;
+    }
+    nav a {
+      text-decoration: none;
+      color: black;
+      font-size: 1.2em;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a:hover {
+      background-color: black;
+      color: white;
+    }
+    .donate-button {
+      background-color: rgb(61, 165, 82);
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      font-size: 1.2em;
+      cursor: pointer;
+    }
+    .donate-button:hover{ 
+    background-color: black;
+    color: white;
+    }
+    .Texas-Ramp-Project-Stories {
+        text-align: center;
+    }
+    .center {
+        text-align: center;
+    }
+    p {
+        font-size: x-large;
+        font-style: italic;
+        font-weight: bolder;
+        text-align: center;
+    }
